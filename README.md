@@ -121,8 +121,6 @@ The Power BI dashboard comprised two slides, each divided into three sections:
 ### HR Analytics(Diversity and Inclusion Slide 1)
 ![image](https://github.com/user-attachments/assets/45736425-6fa8-41ea-878f-29ddf57b2789)
 
-<img width="1516" alt="Image" src="https://github.com/user-attachments/assets/7424a297-2dd9-424f-a638-944b453016ff" />
-
 
 ### HR Analytics(Diversity and Inclusion Slide 2)
 ![Diversity and Inclusion Slide 2](https://github.com/user-attachments/assets/9627e380-a23c-4e60-97de-8bd62d864a72)
